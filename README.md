@@ -27,3 +27,16 @@ Modern AR models generally use the Transformer architecture to map long-range de
 | :--- | :--- | :--- | :--- |
 | **In-Depth Guide** | 2020 | [Autoregressive Generative Models](https://thomasjubb.blog/2020/05/07/autoregressive-generative-models-in-depth-part-1/) | Explore the mathematical and architectural differences between autoregressive language models and other generative frameworks via this guide on [Autoregressive Generative Models](https://thomasjubb.blog). |
 | **Video Explanation** | 2017 | [Deep Learning: Autoregressive Generative Models](https://www.youtube.com/watch?v=5WoItGTWV54) | For a conceptual introduction to autoregressive models and their underlying mathematics, watch the video explanation on [YouTube](https://youtube.com). |
+
+
+## 📈 Star History
+
+<div align="center">
+   <a href="https://www.star-history.com/?repos=ishandutta2007%2FAwesome-Autoregressive-Models&type=date&legend=bottom-right">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Autoregressive-Models&type=date&theme=dark&legend=bottom-right" />
+      <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Autoregressive-Models&type=date&legend=bottom-right" />
+      <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Autoregressive-Models&type=date&legend=bottom-right" />
+    </picture>
+   </a>
+</div>
