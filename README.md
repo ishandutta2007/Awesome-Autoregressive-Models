@@ -9,7 +9,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Autoregressive-Models?style=for-the-badge&logo=github&color=gold)](https://github.com/ishandutta2007/Awesome-Autoregressive-Models/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/ishandutta2007/Awesome-Autoregressive-Models?style=for-the-badge&logo=github&color=blue)](https://github.com/ishandutta2007/Awesome-Autoregressive-Models/network/members)
 [![GitHub license](https://img.shields.io/github/license/ishandutta2007/Awesome-Autoregressive-Models?style=for-the-badge&color=green)](https://github.com/ishandutta2007/Awesome-Autoregressive-Models/blob/main/LICENSE)
-[![GitHub issues](https://img.shields.io/github/issues/ishandutta2007/Awesome-Autoregressive-Models?style=for-the-badge&color=red)](https://github.com/ishandutta2007/Awesome-Autoregressive-Models/issues)
+[![GitHub issues](https://img.shields.io/github/issues/ishandutta2007/Awesome-Autoregressive-Models?style=for-the-badge&color=red)](https://github.com/ishandutta2007/Awesome-Autoregressive-Models/issues)<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJqZ3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3ImZXA9djFfaW50ZXJuYWxfZ2lmX2J5X2lkJmN0PWc/3o7TKSjPQC1Q7UsC8E/giphy.gif" width="600" alt="AI Neural Network Animation">
